@@ -1,3 +1,0 @@
-C:/Users/Lenovo/Desktop/Lab01_OOP/build/CMakeFiles/Lab01_OOP.dir
-C:/Users/Lenovo/Desktop/Lab01_OOP/build/CMakeFiles/edit_cache.dir
-C:/Users/Lenovo/Desktop/Lab01_OOP/build/CMakeFiles/rebuild_cache.dir
