@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Lenovo/Desktop/Lab01_OOP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\Lab01_OOP.dir\\main.cpp.obj -c C:\\Users\\Lenovo\\Desktop\\Lab01_OOP\\main.cpp",
+  "file": "C:/Users/Lenovo/Desktop/Lab01_OOP/main.cpp",
+  "output": "CMakeFiles/Lab01_OOP.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/Desktop/Lab01_OOP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\Lab01_OOP.dir\\Price.cpp.obj -c C:\\Users\\Lenovo\\Desktop\\Lab01_OOP\\Price.cpp",
+  "file": "C:/Users/Lenovo/Desktop/Lab01_OOP/Price.cpp",
+  "output": "CMakeFiles/Lab01_OOP.dir/Price.cpp.obj"
+}
+]

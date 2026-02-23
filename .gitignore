@@ -1,0 +1,4 @@
+build/Lab01_OOP.exe
+*.o
+.vscode/
+CMakeLists.txt
