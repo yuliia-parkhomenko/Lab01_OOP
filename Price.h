@@ -7,9 +7,10 @@ struct Price
     short int kop;
 };
 
-Price add(const Price& a, const Price& b);
-Price multiply(const Price& a, int quantity);
+void add(const Price& a, const Price& b, Price& result);
+void multiply(const Price& p, int quantity, Price& result);
 void roundPrice(Price& p);
 void print(const Price& p);
+void processFile();
 
 #endif
